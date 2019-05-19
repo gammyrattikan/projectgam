@@ -1,0 +1,1 @@
+from gammyrattikan.myname import fullname
